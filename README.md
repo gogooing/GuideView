@@ -1,9 +1,8 @@
-# EmojiRain-master
-彩带飘落效果，可设置彩带图片，随机生成其他颜色，旋转，飘落速度等
+# GuideView
+添加引导页，两种效果，一个在高亮区附近显示，一种在左上角等显示，可用作提示
 
 ps:
-https://github.com/DingMouRen/FallingView 在此基础上修改
+https://github.com/binIoter/GuideView 在此基础上修改
 
 
-![截图](https://github.com/gogooing/EmojiRain-master/blob/master/Screenshot/screenshot1.jpg)
-![截图](https://github.com/gogooing/EmojiRain-master/blob/master/Screenshot/screenshot002.jpg)
+![截图](https://github.com/gogooing/GuideView/blob/master/Screenshot/screenshot1.jpg)
